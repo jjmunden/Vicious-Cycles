@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-color: #00ffff;
+}
+.container {
+
+    background-color: #ffe4c4;
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    background-color: pink;
+}
+nav {
+    background-color: lime;
+    width: 100%;
+}
+nav ul{
+    background-color: mediumorchid;
+    width: 70%;
+    margin: 0 auto;
+}
+nav ul li {
+    background-color: mintcream;
+    display: inline-block;
+    width: 23%;
+    list-style-type: none;
+}
+aside{
+    background-color: darkgreen;
+    width: 27%;
+    float: left;
+
+}
+aside section .asImCon {
+    width: 90%;
+    margin: 0 auto;
+}
+aside section .asImCon img{
+    width: 100%;
+}
+main {
+    background-color: darksalmon;
+    width: 70%;
+    float: right;
+}
+section{
+    background-color: lavender;
+}
+footer {
+    background-color: steelblue;
+    clear: both;
+}
